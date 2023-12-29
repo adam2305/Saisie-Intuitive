@@ -4,7 +4,7 @@
 - [Prérequis](#Prérequis)
 - [Exécution](#Exécution)
 - [Description](#description)
-- [Fpnctionnalités](#fonctionnalités)
+- [Fonctionnalités](#fonctionnalités)
 - [License](#license)
 
 
