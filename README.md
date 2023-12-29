@@ -4,7 +4,7 @@
 - [Prérequis](#Prérequis)
 - [Exécution](#Exécution)
 - [Description](#description)
-- [FONCTIONNALITÉS](#fonctionnalités)
+- [Fpnctionnalités](#fonctionnalités)
 - [License](#license)
 
 
@@ -40,7 +40,7 @@ Le programme presente une interface graphique compatible **GTK3**.
    On peut choisir le mode de prédiction qu'on préfère : fréquentiel qui sélectionne les mots les plus utilisés ou temporel qui choisit les derniers mots utilisés.
 
 ### INTERAGIR AVEC LES DICTIONNAIRES
- - L'utilisateur peut ajouter un dictionnaire personnel à celui déjà présent dans le programme. Pour 
+  - L'utilisateur peut ajouter un dictionnaire personnel à celui déjà présent dans le programme. Pour 
   cela il suffit d'entrer le nom du fichier et d'appuyer sur le buton 'importer'. Le process se fait de manière
   automatique et une foi fini l'entrée texte s'effacera
    - Affciher dictionnaires personnel ou français : il faut appuyer sur exécuter et une fenêtre dialogue
@@ -66,7 +66,7 @@ Le programme presente une interface graphique compatible **GTK3**.
    dictionnaire français et est par conséquent ajouté au dictionnaire personnel.
   
   **ATTENTION** : - si on écris entre un espace en premier caractère le programme crash
-	- l'utilisation de caractères spéciaux peut mener au crash du programme
+  - l'utilisation de caractères spéciaux peut mener au crash du programme
   - il se peut que certains mots atypiques fassent buguer le programme
  	 
 
