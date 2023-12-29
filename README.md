@@ -36,11 +36,11 @@ Les mots utiliséd viennent d'un dictionnaire intrne mais l'utilisateur a le dro
 Le programme presente une interface graphique compatible **GTK3**.
 
 ## Fonctionnnalités
-    PARAMÈTRES
+PARAMÈTRES
    On peut choisir le mode de prédiction qu'on préfère : fréquentiel qui sélectionne les mots
    les plus utilisés ou temporel qui choisit les derniers mots utilisés.
 
-    INTERAGIR AVEC LES DICTIONNAIRES
+INTERAGIR AVEC LES DICTIONNAIRES
    - L'utilisateur peut ajouter un dictionnaire personnel à celui déjà présent dans le programme. Pour 
    cela il suffit d'entrer le nom du fichier et d'appuyer sur le buton 'importer'. Le process se fait de manière
    automatique et une foi fini l'entrée texte s'effacera
@@ -50,14 +50,14 @@ Le programme presente une interface graphique compatible **GTK3**.
 **ATTENTION** : L'affichage du dictionnaire français met du temps à charger car très volumineux,
   	       appuyer sur attendre à chque fois que l'application le demande 
 
-    CHANGER LES DONNÉES
+CHANGER LES DONNÉES
    - Ajouter un mot : en écrivant le mots dans la zone de texte et en appuyant sur ajouter ce mot sera 
    ajouté au dictionnaire personnel indépendamment de sa présence ou non dans le dictionnaire français
    - Supprimer un mot : le mot entré dans la zone de texte sera supprimé du dictionnaire personnel sous 
    résèrve d'existence
    - Modifier un mot : le entré dans la zone de texte du haut sera remplacé par le mot entré en deuxième
 
-    ECRITURE INTUITIVE
+ECRITURE INTUITIVE
    - Dans cette partie l'utilisateur peut écrire le message qu'il veut et automatiquement le programme 
    recupère le contenu et génère trois prédictions possibles.Ces prédictions se trouvent à l'intérieur de butons. 
    Si on appuie sur un buton le contenu du message sera automatiquement complété par la prédiction.
