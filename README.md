@@ -2,7 +2,7 @@
 # SAISIE INTUITIVE 2.0
 ## Table of contents
 - [Prérequis](#Prérequis)
-- [Éxecution](#Éxecution)
+- [Exécution](#Exécution)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
@@ -22,6 +22,13 @@ Bibliothèques nécessaires :
 Pour installer les paquets sur linux :
 ```bash
 sudo apt install libgtk-3-dev pkg-config make gcc
+```
+
+## Prérequis
+Pour compiler et run le programme se placer dans le dossier :
+```bash
+make main
+./main
 ```
 
 
