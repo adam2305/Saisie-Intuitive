@@ -74,9 +74,9 @@ Le programme presente une interface graphique compatible **GTK3**.
 
 ## Screenshots
 <p align="center">
-  <img src="screenshots/1.png" height="200">
+  <img src="screenshots/1.png" height="400" />
   <br>
-  <img src="screenshots/2.png" height="200">
+  <img src="screenshots/2.png" height="400" />
 </p>
 
  	 
