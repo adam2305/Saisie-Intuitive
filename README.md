@@ -37,15 +37,16 @@ Le programme presente une interface graphique compatible **GTK3**.
 
 ## Fonctionnnalités
 PARAMÈTRES
-   On peut choisir le mode de prédiction qu'on préfère : fréquentiel qui sélectionne les mots
-   les plus utilisés ou temporel qui choisit les derniers mots utilisés.
+ 
+   	On peut choisir le mode de prédiction qu'on préfère : fréquentiel qui sélectionne les mots les plus utilisés ou temporel qui choisit les derniers mots utilisés.
 
-INTERAGIR AVEC LES DICTIONNAIRES
-   - L'utilisateur peut ajouter un dictionnaire personnel à celui déjà présent dans le programme. Pour 
-   cela il suffit d'entrer le nom du fichier et d'appuyer sur le buton 'importer'. Le process se fait de manière
-   automatique et une foi fini l'entrée texte s'effacera
-   - Affciher dictionnaires personnel ou français : il faut appuyer sur exécuter et une fenêtre dialogue
-   s'ouvrira.
+INTERAGIR AVEC LES DICTIONNAIRES*
+
+	- L'utilisateur peut ajouter un dictionnaire personnel à celui déjà présent dans le programme. Pour 
+   	cela il suffit d'entrer le nom du fichier et d'appuyer sur le buton 'importer'. Le process se fait de manière
+   	automatique et une foi fini l'entrée texte s'effacera
+   	- Affciher dictionnaires personnel ou français : il faut appuyer sur exécuter et une fenêtre dialogue
+   	s'ouvrira.
 
 **ATTENTION** : L'affichage du dictionnaire français met du temps à charger car très volumineux,
   	       appuyer sur attendre à chque fois que l'application le demande 
