@@ -1,8 +1,8 @@
 
 # SAISIE INTUITIVE 2.0
 ## Table of contents
-- [Introduction](#Prérequis)
-- [Features](#features)
+- [Prérequis](#Prérequis)
+- [Éxecution](#Éxecution)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
