@@ -12,11 +12,12 @@
 
 ## Prérequis
 C compiler :
-- [gcc]
+- **gcc**
+  
 Bibliothèques nécessaires :
-- [gtk3]
-- [pkg-config]
-- [make]
+- **gtk3**
+- **pkg-config**
+- **make**
 
 Pour installer les paquets sur linux :
 ```bash
