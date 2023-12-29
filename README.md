@@ -73,17 +73,12 @@ Le programme presente une interface graphique compatible **GTK3**.
 > - il se peut que certains mots atypiques fassent buguer le programme
 
 ## Screenshots
-<p align="center">
-  <img src="screenshots/1.png" height="450" />
-  <span style="margin-right: 80;"></span>
-  <img src="screenshots/2.png" height="450" />
-</p>
 
   <div class="image-container">
-    <img src="screenshots/1.png" alt="Image 1" width="400">
+    <img src="screenshots/1.png" alt="Image 1" width="300">
   </div>
   <div class="image-container">
-    <img src="screenshots/2.png" alt="Image 2" width="400">
+    <img src="screenshots/2.png" alt="Image 2" width="300">
   </div>
 
  	 
