@@ -3,10 +3,8 @@
 ## Table of contents
 - [Prérequis](#Prérequis)
 - [Exécution](#Exécution)
-- [Prerequisites](#prerequisites)
-- [Getting Started](#getting-started)
-- [Folder Structure](#folder-structure)
-- [Backend](#backend)
+- [Description](#description)
+- [FONCTIONNALITÉS](#fonctionnalités)
 - [License](#license)
 
 
@@ -30,6 +28,17 @@ Pour compiler et run le programme se placer dans le dossier :
 make main
 ./main
 ```
+
+## Description
+Ce programme permet d'avoir une saisie intuitile intelligente qui propose une autocomplétion des 
+mots lorsqu'on est en train d'écrire sur un clavier.
+Les mots utiliséd viennent d'un dictionnaire intrne mais l'utilisateur a le droit d'en ajouter.
+Le programme presente une interface graphique compatible **GTK3**.
+
+## FONCTIONNALITÉS
+
+
+
 
 
 
