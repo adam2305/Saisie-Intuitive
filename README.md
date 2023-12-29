@@ -5,6 +5,7 @@
 - [Exécution](#Exécution)
 - [Description](#description)
 - [Fonctionnalités](#fonctionnalités)
+- [Screenshots](#screenshots)
 - [License](#license)
 
 
@@ -70,6 +71,14 @@ Le programme presente une interface graphique compatible **GTK3**.
 > - si on écris entre un espace en premier caractère le programme crash
 > - l'utilisation de caractères spéciaux peut mener au crash du programme
 > - il se peut que certains mots atypiques fassent buguer le programme
+
+## Screenshots
+<p align="center">
+  <img src="screenshots/1.jpg" height="200">
+  <br>
+  <img src="screenshots/2.jpg" height="200">
+</p>
+
  	 
 
 
