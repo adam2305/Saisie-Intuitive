@@ -80,7 +80,7 @@ Le programme presente une interface graphique compatible **GTK3**.
 </p>
 
   <div class="image-container">
-    <img src="iscreenshots/1.png" alt="Image 1" width="400">
+    <img src="screenshots/1.png" alt="Image 1" width="400">
   </div>
   <div class="image-container">
     <img src="screenshots/2.png" alt="Image 2" width="400">
