@@ -66,12 +66,10 @@ appuyer sur attendre à chque fois que l'application le demande
    déjà présent dans le dictionnaire personnel et donc ses statistiques sont mises à jour soit il existe que dans le 
    dictionnaire français et est par conséquent ajouté au dictionnaire personnel.
 
-> [!warning]  
-> Critical content demanding immediate user attention due to potential risks.
-
-  - si on écris entre un espace en premier caractère le programme crash
-  - l'utilisation de caractères spéciaux peut mener au crash du programme
-  - il se peut que certains mots atypiques fassent buguer le programme
+> [!Attention]  
+> - si on écris entre un espace en premier caractère le programme crash
+> - l'utilisation de caractères spéciaux peut mener au crash du programme
+> - il se peut que certains mots atypiques fassent buguer le programme
  	 
 
 
