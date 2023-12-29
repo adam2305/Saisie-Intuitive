@@ -65,8 +65,8 @@ appuyer sur attendre à chque fois que l'application le demande
    - Une fois fini d'écrire en appuyant sur le buton "valider" chaque mot du message écris est extrait et soit il est 
    déjà présent dans le dictionnaire personnel et donc ses statistiques sont mises à jour soit il existe que dans le 
    dictionnaire français et est par conséquent ajouté au dictionnaire personnel.
-  
-  <p style="color:red;">Attention :</p>
+
+  ```diff -Attention``` 
   - si on écris entre un espace en premier caractère le programme crash
   - l'utilisation de caractères spéciaux peut mener au crash du programme
   - il se peut que certains mots atypiques fassent buguer le programme
