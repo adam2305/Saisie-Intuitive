@@ -46,7 +46,7 @@ Le programme presente une interface graphique compatible **GTK3**.
    - Affciher dictionnaires personnel ou français : il faut appuyer sur exécuter et une fenêtre dialogue
   s'ouvrira.
 
-[!warning]
+> [!warning]
 > L'affichage du dictionnaire français met du temps à charger car très volumineux,
 > appuyer sur attendre à chque fois que l'application le demande 
 
