@@ -76,10 +76,9 @@ Le programme presente une interface graphique compatible **GTK3**.
 
   <div class="image-container">
     <img src="screenshots/1.png" alt="Image 1" width="300">
+      <img src="screenshots/2.png" alt="Image 2" width="300">
   </div>
-  <div class="image-container">
-    <img src="screenshots/2.png" alt="Image 2" width="300">
-  </div>
+
 
  	 
 
