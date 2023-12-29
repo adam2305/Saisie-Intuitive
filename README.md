@@ -46,8 +46,9 @@ Le programme presente une interface graphique compatible **GTK3**.
    - Affciher dictionnaires personnel ou français : il faut appuyer sur exécuter et une fenêtre dialogue
   s'ouvrira.
 
-**ATTENTION** : L'affichage du dictionnaire français met du temps à charger car très volumineux,
-  	       appuyer sur attendre à chque fois que l'application le demande 
+<p style="color:red;">Attention :</p>
+L'affichage du dictionnaire français met du temps à charger car très volumineux,
+appuyer sur attendre à chque fois que l'application le demande 
 
 
 ### CHANGER LES DONNÉES
@@ -65,7 +66,8 @@ Le programme presente une interface graphique compatible **GTK3**.
    déjà présent dans le dictionnaire personnel et donc ses statistiques sont mises à jour soit il existe que dans le 
    dictionnaire français et est par conséquent ajouté au dictionnaire personnel.
   
-  **ATTENTION** : - si on écris entre un espace en premier caractère le programme crash
+  <p style="color:red;">Attention :</p>
+  - si on écris entre un espace en premier caractère le programme crash
   - l'utilisation de caractères spéciaux peut mener au crash du programme
   - il se peut que certains mots atypiques fassent buguer le programme
  	 
